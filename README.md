@@ -1,1 +1,2 @@
-# ra-lifecycle-http-watches
+# ra-lifecycle-http-watches [![Build status](https://ci.appveyor.com/api/projects/status/f8g2aj0uuj70lacw?svg=true)](https://ci.appveyor.com/project/barsich/ra-lifecycle-http-watches)
+[GithubPages](https://barsich.github.io/ra-lifecycle-http-watches/)
